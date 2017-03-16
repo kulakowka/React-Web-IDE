@@ -1,0 +1,69 @@
+{
+  "files": {
+    "byId": {
+      "f0": {
+        "id": "f0",
+        "type": "folder",
+        "path": "/",
+        "filename": "/",
+        "files": ["f1", "f3"]
+      },
+      "f1": {
+        "id": "f1",
+        "type": "folder",
+        "path": "/actions",
+        "filename": "actions",
+        "files": ["f2"],
+        "isActions": true
+      },
+      "f2": {
+        "id": "f2",
+        "type": "file",
+        "path": "/actions/index.js",
+        "filename": "index.js",
+        "code": "// Source for index.js"
+      },
+      "f3": {
+        "id": "f3",
+        "type": "folder",
+        "path": "/components",
+        "filename": "components",
+        "files": ["f4"],
+        "isComponents": true
+      },
+      "f4": {
+        "id": "f4",
+        "type": "folder",
+        "path": "/components/Button",
+        "filename": "Button",
+        "files": ["f5", "f6"],
+        "isComponent": true
+      },
+      "f5": {
+        "id": "f5",
+        "type": "file",
+        "path": "/components/Button/Button.js",
+        "filename": "Button.js",
+        "isComponentFile": true,
+        "code": "// Source for Button.js"
+      },
+      "f6": {
+        "id": "f6",
+        "type": "file",
+        "path": "/components/Button/Button.css",
+        "filename": "Button.css",
+        "isComponentFile": true,
+        "code": "// Source for Button.css"
+      }
+    },
+    "byPath": {
+      "/": "f0",
+      "/actions": "f1",
+      "/actions/index.js": "f2",
+      "/components": "f3",
+      "/components/Button": "f4",
+      "/components/Button/Button.js": "f5",
+      "/components/Button/Button.css": "f6"
+    }
+  }
+}
