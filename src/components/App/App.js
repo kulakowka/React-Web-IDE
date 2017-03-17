@@ -13,7 +13,7 @@ const NoMatch = () => <div>NoMatch</div>
 class App extends Component {
   render () {
     return (
-      <Router>
+      <Router basename='/React-Web-IDE'>
         <Switch>
           <Route path='/*' component={FilesContainer} />
           <Route path='/' component={FilesContainer} />

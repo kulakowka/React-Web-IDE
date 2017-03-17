@@ -3,11 +3,12 @@ import { Menu } from 'semantic-ui-react'
 import {
   Link
 } from 'react-router-dom'
+import { BASE_PATH } from '../../constants'
 
 const MenuItem = ({ to, children }) => (
   <Menu.Item
     as={Link}
-    active={document.location.pathname.startsWith(to)}
+    active={document.location.pathname.startsWith(BASE_PATH + to)}
     to={to}
   >
     {children}
