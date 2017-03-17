@@ -2,6 +2,7 @@
   "name": "folder-actions",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://kulakowka.github.io/React-Web-IDE",
   "dependencies": {
     "glob": "^7.1.1",
     "immutable": "^3.8.1",
