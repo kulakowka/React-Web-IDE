@@ -1,6 +1,6 @@
 {
-  "name": "folder-actions",
-  "version": "0.1.0",
+  "name": "react-web-ide",
+  "version": "0.0.1",
   "private": true,
   "homepage": "https://kulakowka.github.io/React-Web-IDE",
   "dependencies": {
