@@ -1,8 +1,4 @@
-Frontend Studio
-Backend Studio
-Mobile Studio
-React.js studio
+# React-Web-IDE
 
+Experimental Web based IDE for create web applications with React, Redux...
 
-https://github.com/ihodev/a-file-icon
-https://github.com/file-icons/atom
