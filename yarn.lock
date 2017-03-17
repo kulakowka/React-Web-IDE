@@ -2509,6 +2509,10 @@ ignore@^3.2.0:
   version "3.2.5"
   resolved "https://registry.yarnpkg.com/ignore/-/ignore-3.2.5.tgz#6437903354653e32ebbf562c45e68e4922a95df6"
 
+immutable@^3.8.1:
+  version "3.8.1"
+  resolved "https://registry.yarnpkg.com/immutable/-/immutable-3.8.1.tgz#200807f11ab0f72710ea485542de088075f68cd2"
+
 imurmurhash@^0.1.4:
   version "0.1.4"
   resolved "https://registry.yarnpkg.com/imurmurhash/-/imurmurhash-0.1.4.tgz#9218b9b2b928a238b13dc4fb6b6d576f231453ea"
@@ -4430,6 +4434,10 @@ redux-form@^6.5.0:
     lodash "^4.17.3"
     lodash-es "^4.17.3"
 
+redux-immutable@^4.0.0:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/redux-immutable/-/redux-immutable-4.0.0.tgz#3a1a32df66366462b63691f0e1dc35e472bbc9f3"
+
 redux-promise@^0.5.3:
   version "0.5.3"
   resolved "https://registry.yarnpkg.com/redux-promise/-/redux-promise-0.5.3.tgz#e97e6c9d3bf376eacb79babe6d906da20112d6d8"
@@ -4741,6 +4749,10 @@ shelljs@^0.7.5:
 shellwords@^0.1.0:
   version "0.1.0"
   resolved "https://registry.yarnpkg.com/shellwords/-/shellwords-0.1.0.tgz#66afd47b6a12932d9071cbfd98a52e785cd0ba14"
+
+shortid@^2.2.8:
+  version "2.2.8"
+  resolved "https://registry.yarnpkg.com/shortid/-/shortid-2.2.8.tgz#033b117d6a2e975804f6f0969dbe7d3d0b355131"
 
 signal-exit@^3.0.0:
   version "3.0.2"
